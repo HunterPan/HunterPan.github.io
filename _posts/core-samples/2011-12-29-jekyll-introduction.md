@@ -1,9 +1,14 @@
 ---
 layout: post
-category : lessons
+category: lessons
 title: Introduction
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+tagline: Supporting tagline
+tags:
+  - intro
+  - beginner
+  - jekyll
+  - tutorial
+published: true
 ---
 {% include JB/setup %}
 
@@ -411,3 +416,8 @@ Jekyll-bootstrap is intended to provide helper methods and strategies aimed at m
 
 Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }})
 or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.
+
+
+等待
+![image](/assets/post-images/2011-12-29-bb796713-d3af-48cc-c897-2aa734b0d823.png)
+
